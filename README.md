@@ -13,6 +13,11 @@ Examples:
 unluckyDays(2015) == 3
 unluckyDays(1986) == 1
 
+https://en.wikipedia.org/wiki/Friday_the_13th
+A common year starting on Sunday is any non-leap year (i.e. a year with 365 days) that begins on Sunday, 1 January, and ends on Sunday, 31 December. 
+
+
+
 ## Legend
 - ⚠ TODO
 - 🚧 IN PROGRESS

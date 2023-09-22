@@ -23,5 +23,5 @@ unluckyDays(1986) == 1
 Pomodoro 1:
 - ✅ DONE Plan
 - ✅ DONE Initial project setup & refactor
-- ⚠ TODO Project examples
+- 🚧 IN PROGRESS Project examples - study about the calendar and Friday 13th
 - ⚠ TODO Create User story 1

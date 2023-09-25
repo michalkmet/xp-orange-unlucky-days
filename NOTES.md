@@ -26,5 +26,5 @@ Pomodoro 1:
 
 
 Pomodoro 2:
-- 🚧 IN PROGRESS Project examples - study about the calendar and Friday 13th
-- ⚠ TODO Create User story 1
+- ✅ DONE Project examples - study about the calendar and Friday 13th
+- ✅ DONE Create User story 1

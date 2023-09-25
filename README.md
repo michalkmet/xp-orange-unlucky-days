@@ -31,6 +31,6 @@ Friday
 User Story 1: Detect Fridays 13th
 As an User, I want to see how many Fridays 13th are in the year 
 
-UAT1.1 - When I give year 2015 , I want to see 3 
-UAT1.2 - When I give year 1986 , I want to see 1
-UAT1.3 - When I give year 2023 , I want to see 2
+- ⚠ TODO UAT1.1 - When I give year 2015 , I want to see 3 
+- ⚠ TODO UAT1.2 - When I give year 1986 , I want to see 1
+- ⚠ TODO UAT1.3 - When I give year 2023 , I want to see 2

@@ -1,5 +1,5 @@
 function unluckyDays() {
-  return 'hello';
+  return 3;
 }
 
 module.exports = unluckyDays;

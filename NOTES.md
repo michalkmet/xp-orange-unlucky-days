@@ -33,4 +33,4 @@ As an User, I want to see how many Fridays 13th are in the year
 
 - ✅ DONE UAT1.1: When I give year 2015 , I want to see 3 
 - ✅ DONE UAT1.2 - When I give year 1986 , I want to see 1
-- ⚠ TODO UAT1.3 - When I give year 2023 , I want to see 2
+- 🚧 IN PROGRESS UAT1.3 - When I give year 2023 , I want to see 2
